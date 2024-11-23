@@ -111,6 +111,7 @@ body {
   letter-spacing: 0.04em;
   color: #fff;
   margin: 0 auto;
+  cursor: pointer;
 }
 
 .menu:hover,
